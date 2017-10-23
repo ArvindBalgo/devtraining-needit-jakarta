@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="TEST" max_length="40" name="x_58872_needit_test" type="collection">
+        <element display="true" label="Currency sd" max_length="20" name="currency_sd" type="currency"/>
+        <element label="Dec dec" max_length="20" name="dec_dec" type="decimal"/>
+        <element label="Dec float" max_length="40" name="dec_float" type="float"/>
+    </element>
+</database>
